@@ -1,0 +1,5 @@
+com\stafffinder\task\commonapi\UserController.class
+com\stafffinder\task\exception\UserRegistrationExeption.class
+com\stafffinder\task\model\User.class
+com\stafffinder\task\utils\UserMail.class
+com\stafffinder\task\utils\HibernateUtil.class
